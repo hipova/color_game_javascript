@@ -1,1 +1,1 @@
-# color_game_javascript-colt_steele_bootcamp
+# color_game_javascript
